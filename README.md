@@ -1,1 +1,1 @@
-# MealsOnWheel
+Meals on Wheel" is a charitable organization. It is preparing and delivering hot meals for older age, illnesses or disability person. And it provides hot meals on weekdays and offers frozen meals if the members are not within a 10-kilometer radius of their outsourced kitchen.
