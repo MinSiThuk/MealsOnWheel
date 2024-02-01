@@ -1,0 +1,45 @@
+.donate-title{
+    margin: 2rem 0;
+}
+
+.donate-container{
+    width: 100%;
+}
+
+.donate-container .donate-form{
+    width: 500px;
+    height: 300px;
+    background-color: var(--main-color);
+    margin: 4.43rem auto;
+    border-radius: 30px;
+}
+
+.donate-form .donate-groups{
+   display: block;
+}
+
+.donate-form .donate-price{
+    margin: 1rem 2rem;
+    border: 3px solid #fff;
+    background-color: var(--main-color);
+    color: #fff;
+}
+
+.donate-form .other-price{
+    margin: 1rem 0;
+}
+
+.donate-form .other{
+    font-size: 1.5rem;
+    color: #fff;
+    margin: 0 1rem;
+}
+
+.donate-form .donate-submit{
+    line-height: 4;
+    padding: 0.7rem 2.5rem;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    text-decoration: none;
+}

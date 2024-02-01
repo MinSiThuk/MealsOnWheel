@@ -1,0 +1,38 @@
+.caregiverhome{
+    margin: 2rem 0;
+}
+
+.caregiverhome-container{
+    width: 100%;
+    margin: 5rem 0;
+}
+
+.caregiverhome-box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.caregiverhome-box .caregiverhome-profile{
+    width: 300px;
+    height: 200px;
+}
+.caregiverhome-profile img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.caregiverhome-form{
+    width: 50%;
+}
+
+.caregiverhome-form p{
+    font-size: 1.2rem;
+}
+
+.caregiverhome-form .care-home-ed{
+    width: 100%;
+    color: #fff;
+    font-size: 1.2rem;
+    margin: 0 0 0 15rem;
+}   

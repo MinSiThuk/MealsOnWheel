@@ -1,0 +1,22 @@
+.orderlist{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.orderlist-table{
+    width: 100%;
+}
+
+.orderlist-table table{
+    width: 70%;
+    margin: 5rem auto;
+}
+
+.orderlist-table table th{
+    font-size: 1.3rem;
+    padding: 0.7rem 2rem;
+}
+
+.orderlist-table table td{
+    padding: 1rem 2rem;
+}

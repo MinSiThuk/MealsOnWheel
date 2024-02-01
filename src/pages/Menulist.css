@@ -1,0 +1,36 @@
+.menu-list{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.menu-list-form{
+    width: 100%;
+}
+
+.menu-list-form form{
+    width: 70%;
+    background-color: var(--main-color);
+    margin: 3rem auto;
+}
+
+.menu-list-form form .list-row{
+    width: 100%;
+}
+
+.menu-list-form form .list-row input{
+    width: 300px;
+    padding: 0.7rem 2rem;
+    margin: 2rem 1rem;
+    border-radius: 30px;
+}
+
+.menu-list-form form iframe{
+    margin: 1rem;
+}
+
+.menu-list-form .menu-list-btn{
+    width: 200px;
+    padding: 0.7rem;
+    margin: 2rem 0;
+    border-radius: 30px;
+}

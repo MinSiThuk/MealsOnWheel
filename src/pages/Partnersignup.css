@@ -1,0 +1,36 @@
+.partnersignup{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.partnersignup form{
+    width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    display: block;
+    color: #fff;
+    background-color: var(--main-color);
+}
+
+.partnersignup form .partner-input{
+    display: flex;
+    margin: auto;
+}
+
+.partner-input input{
+    width: 250px;
+    padding: 0.7rem 2rem;
+    margin: 1rem;
+    border-radius: 30px;
+    transform: translateY(-30px);
+}
+
+.partnersignup button{
+    padding: 0.7rem 2rem;
+    border-radius: 30px;
+}
+
+.partnersignup button a{
+    color: #000;
+    text-decoration: none;
+}

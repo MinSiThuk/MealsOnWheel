@@ -1,0 +1,63 @@
+.volunteerhome{
+    width: 100%;
+}
+
+.volunteerhome-nav{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.volunteerhome-nav nav{
+    width: 50%;
+    margin: auto;
+    transform: translate(20rem);
+}
+
+.volunteerhome-nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.volunteerhome-nav nav li{
+    list-style: none;
+}
+
+.volunteerhome-container{
+    width: 100%;
+    margin: 5rem 0;
+}
+
+.volunteerhome-box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.volunteerhome-box .volunteerhome-profile{
+    width: 300px;
+    height: 200px;
+}
+
+.volunteerhome-profile img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.volunteerhome-form{
+    width: 500px;
+    padding: 1rem;
+}
+.volunteerhome-form p{
+    font-size: 1.1rem;
+    line-height: 2;
+}
+
+.volunteerhome-form .vol-home-ed{
+    width: 100%;
+    color: #fff;
+    font-size: 1.2rem;
+    margin: 0 0 0 15rem;
+}

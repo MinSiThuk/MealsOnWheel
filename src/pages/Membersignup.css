@@ -1,0 +1,48 @@
+.membersignup{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.membersignup form{
+    width: 500px;
+    background-color: var(--main-color);
+    padding: 2rem;
+    margin: 2rem auto;
+    display: block;
+    color: #fff;
+    border-radius: 30px;
+}
+
+.membersignup form label{
+    display: block;
+}
+
+.membersignup form label .member-input{
+    width: 250px;
+    padding: 0.7rem 2rem;
+    margin: 1rem;
+    border-radius: 30px;
+}
+
+.membersignup form .member-radio{
+    width: 300px;
+    margin: auto;
+}
+
+.member-radio input{
+    margin: 0.5rem 1rem;
+}
+
+.membersignup form button{
+    margin: 2rem 0;
+    padding: 0.7rem 2rem;
+    border-radius: 30px;
+}
+
+.membersignup form button a{
+    color: #000;
+    text-decoration: none;
+}
+
+
+

@@ -1,0 +1,41 @@
+.volunteersignup{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.volunteersignup form{
+    width: 600px;
+    margin: 2rem auto;
+    padding: 2rem 0;
+    display: block;
+    color: #fff;
+    background-color: var(--main-color);
+}
+
+.volunteersignup form label{
+    display: block;
+}
+
+.volunteersignup form .volunteer-input{
+    display: flex;
+    padding: 0.7rem 2rem;
+    margin: auto;
+}
+
+.volunteer-input input{
+    width: 250px;
+    margin: 1rem;
+    padding: 0.7rem 2rem;
+    border-radius: 30px;
+    transform: translateY(-30px);
+}
+
+.volunteersignup button{
+    padding: 0.7rem 2rem;
+    border-radius: 30px;
+}
+
+.volunteersignup button a{
+    color: #000;
+    text-decoration: none;
+}

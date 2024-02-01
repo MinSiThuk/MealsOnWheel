@@ -1,0 +1,25 @@
+.memberlist{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.memberlist-table{
+    width: 100%;
+}
+
+.memberlist-table table{
+    width: 70%;
+    margin: 5rem auto;
+}
+
+.memberlist-table table th{
+    font-size: 1.3rem;
+    padding: 0.7rem 2rem;
+}
+
+.memberlist-table table td{
+    padding: 1rem 2rem;
+}
+.success-alert{
+    font-size: xx-large;
+}

@@ -1,0 +1,52 @@
+.signin{
+    width: 100%;
+}
+
+.signin-title{
+    margin: 2rem 0;
+}
+
+.signin-form{
+    width: 100%;
+}
+
+.signin-form form{
+    width: 500px;    
+    margin: 3rem auto;
+    padding: 1rem 0;
+    border-radius: 20px;
+    background-color: var(--main-color);
+}
+
+.signin-form .row{
+    width: 300px;
+    margin: 3rem auto;
+    display: block;
+}
+
+.signin-form .row input{
+    margin: 1.5rem 0;
+    padding: 0.7rem 2rem;
+    border-radius: 30px;
+    outline: none;
+}
+
+.signin-form #dropdown-basic{
+    width: 200px;
+    padding: 0.7rem 1rem;
+    background-color: #fff;
+    color: #000;
+}
+
+.signin-form .drop-menu{
+    width: 200px;
+    padding: 0.5rem;
+}
+
+.signin-form .drop-menu .drop-menus{
+    padding: 0.7rem 1rem; 
+}
+
+.signin-form .drop-menu .drop-menus:active{
+    background-color: var(--main-color);
+}

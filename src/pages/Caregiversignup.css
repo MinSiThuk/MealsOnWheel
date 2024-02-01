@@ -1,0 +1,36 @@
+.caregiversignup{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.caregiversignup form{
+    width: 600px;
+    padding: 2rem ;
+    margin: 2rem auto;
+    display: block;
+    color: #fff;
+    background-color: var(--main-color);
+}
+
+.caregiversignup form .caregiver-input{
+    display: flex;
+    margin: auto;
+}
+
+.caregiver-input input{
+    width: 250px;
+    padding: 0.7rem 2rem;
+    margin: 1rem;
+    border-radius: 30px;
+    transform: translateY(-30px);
+}
+
+.caregiversignup button{
+    padding: 0.7rem 2rem;
+    border-radius: 30px;
+}
+
+.caregiversignup button a{
+    color: #000;
+    text-decoration: none;
+}

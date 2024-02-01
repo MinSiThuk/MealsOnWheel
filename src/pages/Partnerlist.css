@@ -1,0 +1,22 @@
+.partnerlist{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.partnerlist-table{
+    width: 100%;
+}
+
+.partnerlist-table table{
+    width: 70%;
+    margin: 5rem auto;
+}
+
+.partnerlist-table table th{
+    font-size: 1.3rem;
+    padding: 0.7rem 2rem;
+}
+
+.partnerlist-table table td{
+    padding: 1rem 2rem;
+}

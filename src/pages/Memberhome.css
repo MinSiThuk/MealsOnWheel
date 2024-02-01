@@ -1,0 +1,67 @@
+.memberhome{
+    width: 100%;
+}
+
+.memberhome .nav-list{
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.nav-list nav{
+    width: 50%;
+    margin: auto;
+    transform: translate(20rem);
+}
+
+.nav-list ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nav-list nav li{
+    list-style: none;
+}
+
+nav a{
+    text-decoration: none;
+    color: #000;
+    font-size: 1.2rem;
+}
+
+.memberhome-container{
+    width: 100%;
+    margin: 5rem 0;
+}
+
+.memberhome-box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.memberhome-box .memberhome-profile{
+    width: 300px;
+    height: 200px;
+    border-radius: 50%;
+}
+.memberhome-profile img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.memberhome-form{
+    width: 50%;
+}
+
+.memberhome-form p{
+    font-size: 1.1rem;
+    line-height: 2;
+}
+
+.memberhome-form .mem-home-ed{
+    width: 100%;
+    color: #fff;
+    font-size: 1.2rem;
+    margin: 0 0 0 15rem;
+}

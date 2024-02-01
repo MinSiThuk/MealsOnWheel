@@ -1,0 +1,42 @@
+.payment{
+    width: 100%;
+}
+
+.payment .payment-title{
+    margin: 2rem 0;
+}
+
+.payment-container{
+    width: 100%;
+}
+
+.payment-container .payment-form{
+    width: 500px;
+    height: 400px;
+    margin: 3rem auto;
+    background-color: var(--main-color);
+}
+
+.payment-form .payment-input{
+    width: 400px;
+    padding: 0.7rem 1rem;
+    border-radius: 10px;
+    margin: 1.5rem 0; 
+    outline: none;
+}
+
+.payment-form .payment-row{
+    display: flex;
+    margin: 1rem auto;
+}
+
+.payment-row .payment-input{
+    width: 150px;
+    margin: auto;
+}
+
+.payment-form button{
+    margin: 1rem auto;
+    padding: 0.7rem 2rem;
+    background-color: none;
+}
